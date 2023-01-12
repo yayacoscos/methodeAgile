@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+header {
+background-color: #8B0000;
+color: white;
+text-align: center;
+padding: 1em;
+}
+
+header h1 {
+margin: 0;
+}
+
+#navbar{
+  display: inline;
+}

@@ -1,12 +1,18 @@
 body {
     font-family: Arial, sans-serif;
+    text-align: center;
   }
-  
+
 header {
 background-color: #8B0000;
 color: white;
 text-align: center;
 padding: 1em;
+}
+
+main{ 
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 header h1 {
@@ -17,6 +23,8 @@ margin: 0;
   display: inline;
 }
 
+ul{list-style-type:none};
+ 
 footer{
   text-align: center;
 }
